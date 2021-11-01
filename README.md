@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-141a20?style=flat&logo=ubuntu&logoColor=CF4B1C)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-141a20?style=flat&logo=WORDPRESS)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=JAVASCRIPT)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=PHP&logoColor=787CB5)&nbsp;
