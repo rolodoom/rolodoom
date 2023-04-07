@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 ![Express](https://img.shields.io/badge/-Express-141a20?style=flat-square&logo=express)&nbsp;
 ![React](https://img.shields.io/badge/-React-141a20?style=flat-square&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-141a20?style=flat-square&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-141a20?style=flat-square&logo=Python)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat-square&logo=docker)&nbsp;
 ![Nodemon](https://img.shields.io/badge/-Nodemon-141a20?style=flat-square&logo=Nodemon)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-141a20?style=flat-square&logo=JSON)&nbsp;
