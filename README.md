@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ## Graphics & Office
 
+![Figma](https://img.shields.io/badge/-Figma-141a20?style=flat-square&logo=figma)&nbsp;
 ![Inkscape](https://img.shields.io/badge/-Inkscape-141a20?style=flat-square&logo=inkscape)&nbsp;
 ![Gimp](https://img.shields.io/badge/-GIMP-141a20?style=flat-square&logo=gimp)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-141a20?style=flat-square&logo=canva)&nbsp;
