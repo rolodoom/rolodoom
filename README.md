@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 
 ![Neovim](https://img.shields.io/badge/-Neovim-141a20?style=flat-square&logo=neovim)&nbsp;
 ![AstroNvim](https://img.shields.io/badge/-AstroNvim-141a20?style=flat-square)&nbsp;
+![vscode](https://img.shields.io/badge/-VS_Code-141a20?style=flat-square)&nbsp;
 ![nvm](https://img.shields.io/badge/-nvm-141a20?style=flat-square&logo=nvm)&nbsp;
 ![pnpm](https://img.shields.io/badge/-pnpm-141a20?style=flat-square&logo=pnpm)&nbsp;
 
