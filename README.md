@@ -40,8 +40,21 @@ Here are some ideas to get you started:
 ![Rust](https://img.shields.io/badge/-Rust-141a20?style=flat-square&logo=rust)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat-square&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat-square&logo=mysql)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat-square&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat-square&logo=git)&nbsp;
+![Wordpres](https://img.shields.io/badge/-Wordpress-141a20?style=flat-square&logo=wordpress)&nbsp;
+
+## 📦 Infrastructure & Virtualization
+
+![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat-square&logo=docker)&nbsp;
+![KVM](https://img.shields.io/badge/-KVM-141a20?style=flat-square&logo=linux)&nbsp;
+![QEMU](https://img.shields.io/badge/-QEMU-141a20?style=flat-square&logo=qemu)&nbsp;
+
+## 🛠️ Dev Environment / Tooling
+
+![Neovim](https://img.shields.io/badge/-Neovim-141a20?style=flat-square&logo=neovim)&nbsp;
+![AstroNvim](https://img.shields.io/badge/-AstroNvim-141a20?style=flat-square)&nbsp;
+![nvm](https://img.shields.io/badge/-nvm-141a20?style=flat-square&logo=nvm)&nbsp;
+![pnpm](https://img.shields.io/badge/-pnpm-141a20?style=flat-square&logo=pnpm)&nbsp;
 
 ## 🎧 Professional Audio Stack
 
@@ -54,10 +67,3 @@ Here are some ideas to get you started:
 
 ![Figma](https://img.shields.io/badge/-Figma-141a20?style=flat-square&logo=figma)&nbsp;
 ![Inkscape](https://img.shields.io/badge/-Inkscape-141a20?style=flat-square&logo=inkscape)&nbsp;
-
-## 🛠️ Dev Environment
-
-![Neovim](https://img.shields.io/badge/-Neovim-141a20?style=flat-square&logo=neovim)&nbsp;
-![AstroNvim](https://img.shields.io/badge/-AstroNvim-141a20?style=flat-square)&nbsp;
-![nvm](https://img.shields.io/badge/-nvm-141a20?style=flat-square&logo=nvm)&nbsp;
-![pnpm](https://img.shields.io/badge/-pnpm-141a20?style=flat-square&logo=pnpm)&nbsp;
