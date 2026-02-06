@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-141a20?style=flat-square&logo=nodedotjs)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-141a20?style=flat-square&logo=express)&nbsp;
-![Strapi](https://img.shields.io/badge/-Strapi-141a20?style=flat-square&logo=strapi)&nbsp;
 ![React](https://img.shields.io/badge/-React-141a20?style=flat-square&logo=react)&nbsp;
 ![Astro](https://img.shields.io/badge/-Astro-141a20?style=flat-square&logo=astro)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141a20?style=flat-square&logo=typescript)&nbsp;
@@ -39,8 +38,12 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat-square&logo=python)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-141a20?style=flat-square&logo=rust)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat-square&logo=mongodb)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat-square&logo=postgresql)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-141a20?style=flat-square&logo=supabase)&nbsp;
+![Maria DB](https://img.shields.io/badge/-MariaDB-141a20?style=flat-square&logo=mariadb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat-square&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat-square&logo=git)&nbsp;
+![Strapi](https://img.shields.io/badge/-Strapi-141a20?style=flat-square&logo=strapi)&nbsp;
 ![Wordpres](https://img.shields.io/badge/-Wordpress-141a20?style=flat-square&logo=wordpress)&nbsp;
 
 ## 📦 Infrastructure & Virtualization
