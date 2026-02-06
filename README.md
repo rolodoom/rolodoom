@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141a20?style=flat-square&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat-square&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat-square&logo=python)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-141a20?style=flat-square&logo=rust)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat-square&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat-square&logo=mysql)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat-square&logo=docker)&nbsp;
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
 ![Reaper](https://img.shields.io/badge/-Reaper-141a20?style=flat-square&logo=reaper)&nbsp;
 ![Ardour](https://img.shields.io/badge/-Ardour-141a20?style=flat-square&logo=ardour)&nbsp;
 ![Audacity](https://img.shields.io/badge/-Audacity-141a20?style=flat-square&logo=audacity)&nbsp;
-![MuseScore](https://img.shields.io/badge/-MuseScore-141a20?style=flat-square&logo=musescore)&nbsp;
+![MuseScore Studio](https://img.shields.io/badge/-MuseScore_Studio-141a20?style=flat-square&logo=musescorestudio)&nbsp;
 
 ## 🎨 Creative Tools
 
@@ -58,3 +59,5 @@ Here are some ideas to get you started:
 
 ![Neovim](https://img.shields.io/badge/-Neovim-141a20?style=flat-square&logo=neovim)&nbsp;
 ![AstroNvim](https://img.shields.io/badge/-AstroNvim-141a20?style=flat-square)&nbsp;
+![nvm](https://img.shields.io/badge/-nvm-141a20?style=flat-square&logo=nvm)&nbsp;
+![pnpm](https://img.shields.io/badge/-pnpm-141a20?style=flat-square&logo=pnpm)&nbsp;
